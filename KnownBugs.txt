@@ -1,0 +1,15 @@
+##################################################################################
+#
+# Version 1.0a
+#
+# List of known open bugs in this version. This includes both
+# hardware and software bugs.
+#
+##################################################################################
+
+
+1. Changing channels on the selector sets the channel but will sometimes show the
+   artist and song title from the song that was just playing. It should show the
+   the "Refreshing Artist" and "Refershing Title".
+2. No scrolling of text that is longer than display can show.
+3. 
